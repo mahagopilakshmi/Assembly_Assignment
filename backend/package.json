@@ -19,7 +19,7 @@
     "cors": "^2.8.1",
     "express": "^4.15.2",
     "express-jwt": "^5.1.0",
-    "jsonwebtoken": "^7.3.0",
+    "jsonwebtoken": "^9.0.0",
     "mongodb": "^2.2.33",
     "mongoose": "^4.9.0",
     "natives": "^1.1.6",
